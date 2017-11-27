@@ -81,7 +81,7 @@ button {
 }
 
 .form-control:focus {
-  /*border-color: #9055A2;*/
+  /*border-color: #AAAEB8;*/
   border-color: #2C4D5B;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -132,7 +132,7 @@ label.form-label {
 }
 
 .owl-dots .owl-dot.active span {
-  /*background: #9055A2 !important;*/
+  /*background: #AAAEB8 !important;*/
   background: #444442 !important;
 }
 
@@ -845,7 +845,7 @@ nav.navbar .cart-no {
   min-height: 20px;
   border-radius: 50%;
   font-size: 0.6em;
-  background: #9055A2;
+  background: #AAAEB8;
   color: #fff;
   text-align: center;
   position: absolute;
