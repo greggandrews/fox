@@ -41,7 +41,7 @@ h2 small {
   color: #999;
   font-size: 0.65em;
   font-weight: 300;
-  font-family: "Poppins", sans-serif;
+  font-family: "pt sans", sans-serif;
 }
 
 button {
@@ -81,7 +81,8 @@ button {
 }
 
 .form-control:focus {
-  border-color: #9055A2;
+  /*border-color: #9055A2;*/
+  border-color: #2C4D5B;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -131,7 +132,8 @@ label.form-label {
 }
 
 .owl-dots .owl-dot.active span {
-  background: #9055A2 !important;
+  /*background: #9055A2 !important;*/
+  background: #444442 !important;
 }
 
 .quantity .inc-btn,
@@ -191,7 +193,7 @@ label.form-label {
   height: 18px;
   line-height: 20px;
   text-align: center;
-  background: #9055A2;
+  background: #2C4D5B;
   color: #fff;
   display: inline-block;
   font-size: 0.6em;
@@ -754,7 +756,9 @@ nav.navbar a.nav-link {
 }
 
 nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
-  color: #9055A2;
+  /*color: #9055A2;*/
+  color:#AAAEB8;
+
 }
 
 nav.navbar a.nav-link i {
@@ -2955,8 +2959,8 @@ STYLE SWITCHER FOR DEMO
   color: #495057;
 }
 
-/* ========================================= 
-   THEMING OF BOOTSTRAP COMPONENTS           
+/* =========================================
+   THEMING OF BOOTSTRAP COMPONENTS
    ========================================= */
 /*
  * 1. NAVBAR
@@ -3609,7 +3613,7 @@ STYLE SWITCHER FOR DEMO
 }
 
 /*
- * 3. TYPE  
+ * 3. TYPE
  */
 body {
   font-family: "Poppins", sans-serif;
