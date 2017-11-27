@@ -636,7 +636,8 @@ i[class*='icon-'] {
 * ===================================================
 */
 .top-bar {
-  background: #222;
+  /*background: #222;*/
+  background: #444442;
   color: #bbb;
   font-size: 0.85em;
   padding: 15px 1rem;
