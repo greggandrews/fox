@@ -249,7 +249,7 @@ label.form-label {
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background: #9055A2;
+  background: #B02750;
   border: 2px solid #ddd;
   display: inline-block;
   position: absolute;
@@ -278,7 +278,7 @@ label.form-label {
 }
 
 .pagination-custom a.page-link.active {
-  background: #9055A2;
+  background: #B02750;
   color: #fff;
 }
 
@@ -397,7 +397,7 @@ label.form-label {
 }
 
 .ribbon-primary {
-  background: #9055A2;
+  background: #B02750;
 }
 
 .ribbon-primary::before {
@@ -461,7 +461,7 @@ label.form-label {
 .owl-nav .owl-prev,
 .owl-nav .owl-next {
   background: none !important;
-  color: #9055A2 !important;
+  color: #B02750 !important;
   font-size: 2em !important;
 }
 
@@ -487,7 +487,7 @@ label.form-label {
 }
 
 .dropdown-menu a:hover {
-  background: #9055A2;
+  background: #B02750;
   color: #fff;
 }
 
@@ -582,7 +582,7 @@ label.form-label {
 }
 
 .bootstrap-select .dropdown-menu a:hover {
-  background: #9055A2;
+  background: #B02750;
   color: #fff;
 }
 
@@ -845,7 +845,7 @@ nav.navbar .cart-no {
   min-height: 20px;
   border-radius: 50%;
   font-size: 0.6em;
-  background: #AAAEB8;
+  background: #B02750;
   color: #fff;
   text-align: center;
   position: absolute;
@@ -968,7 +968,7 @@ nav.navbar .menu-large {
 
 .megamenu ul a:hover {
   background: none;
-  color: #9055A2;
+  color: #B02750;
 }
 
 .megamenu .product-col {
@@ -980,7 +980,7 @@ nav.navbar .menu-large {
 }
 
 .megamenu .product-heading a:focus, .megamenu .product-heading a:hover {
-  color: #9055A2;
+  color: #B02750;
   background: none;
   text-decoration: none;
 }
@@ -1335,8 +1335,8 @@ section.categories .item span {
 }
 
 .product .hover-overlay a:hover {
-  color: #9055A2;
-  border-color: #9055A2;
+  color: #B02750;
+  border-color: #B02750;
 }
 
 .product .hover-overlay a:first-of-type {
@@ -1353,7 +1353,7 @@ section.categories .item span {
 
 .product .hover-overlay a.active {
   width: 120px;
-  background: #9055A2;
+  background: #B02750;
   color: #fff;
   border-color: transparent;
   font-weight: 300;
@@ -1440,7 +1440,7 @@ section.divider .btn, section.divider .btn-template-outlined {
 }
 
 .post h4 a:focus, .post h4 a:hover {
-  color: #9055A2;
+  color: #B02750;
   text-decoration: none;
 }
 
@@ -1462,7 +1462,7 @@ section.divider .btn, section.divider .btn-template-outlined {
 }
 
 a.read-more {
-  color: #9055A2;
+  color: #B02750;
 }
 
 a.read-more i {
@@ -1541,7 +1541,7 @@ footer.main-footer .services-block div[class*='col-']:last-of-type {
 }
 
 footer.main-footer .services-block .item:hover .icon {
-  color: #9055A2;
+  color: #B02750;
 }
 
 footer.main-footer .services-block .icon {
@@ -1587,7 +1587,7 @@ footer.main-footer .info a {
 }
 
 footer.main-footer .info a:hover {
-  color: #9055A2;
+  color: #B02750;
 }
 
 footer.main-footer .site-links a {
@@ -1598,7 +1598,7 @@ footer.main-footer .site-links a {
 }
 
 footer.main-footer .site-links a:hover {
-  color: #9055A2;
+  color: #B02750;
 }
 
 footer.main-footer .newsletter p {
@@ -1626,7 +1626,7 @@ footer.main-footer .newsletter input {
 }
 
 footer.main-footer .newsletter input:focus {
-  border-color: #9055A2;
+  border-color: #B02750;
 }
 
 footer.main-footer .newsletter button {
@@ -1644,7 +1644,7 @@ footer.main-footer .newsletter button {
 }
 
 footer.main-footer .newsletter button:hover {
-  color: #9055A2;
+  color: #B02750;
 }
 
 footer.main-footer .copyrights {
@@ -1663,7 +1663,7 @@ footer.main-footer .copyrights a {
 }
 
 footer.main-footer .copyrights a:hover {
-  color: #9055A2;
+  color: #B02750;
 }
 
 footer.main-footer .copyrights p,
@@ -1742,7 +1742,7 @@ footer.main-footer .copyrights ul.payment-list img {
   height: 50px;
   text-align: center;
   line-height: 50px;
-  background: #9055A2;
+  background: #B02750;
   color: #fff;
   position: absolute;
   top: 0;
@@ -1775,7 +1775,7 @@ footer.main-footer .copyrights ul.payment-list img {
 
 .overview .price .current {
   font-weight: 600;
-  color: #9055A2;
+  color: #B02750;
 }
 
 .overview p {
@@ -1925,7 +1925,7 @@ section.product-details .price .original {
 
 section.product-details .price .current {
   font-weight: 700;
-  color: #9055A2;
+  color: #B02750;
 }
 
 section.product-details h2 {
@@ -2033,8 +2033,8 @@ section.product-description a.nav-link {
 }
 
 section.product-description a.nav-link.active, section.product-description a.nav-link:hover, section.product-description a.nav-link:focus {
-  color: #9055A2;
-  border-color: #fff #fff #9055A2;
+  color: #B02750;
+  border-color: #fff #fff #B02750;
 }
 
 section.product-description ul.additional-information {
@@ -2080,8 +2080,8 @@ section.product-description .share-product a {
 
 section.product-description .share-product a:hover {
   color: #fff;
-  background: #9055A2;
-  border-color: #9055A2;
+  background: #B02750;
+  border-color: #B02750;
 }
 
 section.product-description strong {
@@ -2257,7 +2257,7 @@ section.product-description strong {
 }
 
 .products-grid h3:hover {
-  color: #9055A2;
+  color: #B02750;
 }
 
 .products-grid header {
@@ -2490,7 +2490,7 @@ section.checkout .nav-link:hover {
 }
 
 section.checkout .nav-link.active {
-  background: #9055A2;
+  background: #B02750;
   color: #fff;
 }
 
@@ -2619,9 +2619,9 @@ section.checkout .card-header {
 }
 
 section.checkout .card-header.active {
-  background: #9055A2;
+  background: #B02750;
   color: #fff;
-  border-color: #9055A2;
+  border-color: #B02750;
 }
 
 section.checkout .card-header a {
@@ -2651,8 +2651,8 @@ section.checkout .CTAs .next i {
   border-radius: 50%;
   text-align: center;
   margin-bottom: 2rem;
-  color: #9055A2;
-  border: solid 1px #9055A2;
+  color: #B02750;
+  border: solid 1px #B02750;
 }
 
 /* Checkout Media Query -------------------- */
@@ -2701,7 +2701,7 @@ section.checkout .CTAs .next i {
 .contact-icon {
   height: 5rem;
   font-size: 3rem;
-  color: #9055A2;
+  color: #B02750;
 }
 
 /* =======================================================
@@ -2750,7 +2750,7 @@ h4.comments-heading {
 }
 
 .post-item h4 a:focus, .post-item h4 a:hover {
-  color: #9055A2;
+  color: #B02750;
 }
 
 .pagination-lg {
@@ -2772,7 +2772,7 @@ h4.comments-heading {
   line-height: 1;
   padding: 0 2rem;
   font-size: 5rem;
-  color: #9055A2;
+  color: #B02750;
   margin-right: auto;
   margin-left: auto;
 }
@@ -2801,7 +2801,7 @@ h4.comments-heading {
 }
 
 .team-member h3 a:focus, .team-member h3 a:hover {
-  color: #9055A2;
+  color: #B02750;
   text-decoration: none;
 }
 
@@ -2904,8 +2904,8 @@ h4.comments-heading {
 }
 
 .customer-nav .list-group-item.active {
-  background: #9055A2;
-  border-color: #9055A2;
+  background: #B02750;
+  border-color: #B02750;
   color: #fff;
 }
 
@@ -3628,7 +3628,7 @@ body {
 }
 
 a {
-  color: #9055A2;
+  color: #B02750;
   text-decoration: none;
 }
 
@@ -3735,7 +3735,7 @@ mark,
   padding: 0.5rem 1rem;
   margin-bottom: 2rem;
   font-size: 1.1rem;
-  border-left: 5px solid #9055A2;
+  border-left: 5px solid #B02750;
   font-weight: 300;
 }
 
@@ -3748,7 +3748,7 @@ mark,
 }
 
 .text-primary {
-  color: #9055A2 !important;
+  color: #B02750 !important;
 }
 
 a.text-primary:focus, a.text-primary:hover {
@@ -3770,8 +3770,8 @@ a.text-primary:focus, a.text-primary:hover {
 
 .page-item.active .page-link {
   color: #fff;
-  background-color: #9055A2;
-  border-color: #9055A2;
+  background-color: #B02750;
+  border-color: #B02750;
 }
 
 .page-item.disabled .page-link {
@@ -3783,7 +3783,7 @@ a.text-primary:focus, a.text-primary:hover {
 .page-link {
   padding: 0.5rem 0.75rem;
   line-height: 1.25;
-  color: #9055A2;
+  color: #B02750;
   background-color: #fff;
   border: 1px solid #ddd;
 }
@@ -3831,7 +3831,7 @@ a.text-primary:focus, a.text-primary:hover {
 * 5. UTILITIES
 */
 .bg-primary {
-  background-color: #9055A2 !important;
+  background-color: #B02750 !important;
 }
 
 a.bg-primary:focus, a.bg-primary:hover {
@@ -3895,7 +3895,7 @@ a.bg-dark:focus, a.bg-dark:hover {
 }
 
 .border-primary {
-  border-color: #9055A2 !important;
+  border-color: #B02750 !important;
 }
 
 .border-secondary {
@@ -3927,7 +3927,7 @@ a.bg-dark:focus, a.bg-dark:hover {
 }
 
 .text-primary {
-  color: #9055A2 !important;
+  color: #B02750 !important;
 }
 
 a.text-primary:focus, a.text-primary:hover {
@@ -3991,12 +3991,12 @@ a.text-dark:focus, a.text-dark:hover {
 }
 
 .badge-primary {
-  color: color-yiq(#9055A2);
-  background-color: #9055A2;
+  color: color-yiq(#B02750);
+  background-color: #B02750;
 }
 
 .badge-primary[href]:focus, .badge-primary[href]:hover {
-  color: color-yiq(#9055A2);
+  color: color-yiq(#B02750);
   text-decoration: none;
   background-color: #724381;
 }
