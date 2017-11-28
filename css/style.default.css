@@ -1135,6 +1135,8 @@ nav.navbar .menu-large {
 * ===================================================
 */
 
+
+
 section.hero .item {
   padding: 150px 0;
   background-size: cover !important;
@@ -3656,7 +3658,7 @@ h6,
 
 h1,
 .h1 {
-  font-size: 3.5rem;
+  font-size: 3.0rem;
 }
 
 h2,
