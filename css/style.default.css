@@ -36,7 +36,10 @@ section header {
   margin-bottom: 70px;
 }
 
-
+hr {
+  margin-left: 10%;
+  margin-right: 10%;
+}
 
 h2 small {
   display: block;
@@ -1566,7 +1569,7 @@ footer.main-footer .services-block span {
 }
 
 footer.main-footer .main-block {
-  background: #111;
+  background: #444442;
   padding: 100px 0;
   color: #999;
 }
@@ -3107,9 +3110,10 @@ STYLE SWITCHER FOR DEMO
 }
 
 .btn-primary:hover, .btn-template:hover {
-  color: color-yiq(#7a4889);
-  background-color: #7a4889;
-  border-color: #724381;
+  /*color: color-yiq(#7a4889);*/
+    color: color-yiq(#2C4D5B);
+  background-color: #2C4D5B;
+  border-color: #2C4D5B;
 }
 
 .btn-primary:focus, .btn-template:focus, .btn-primary.focus, .focus.btn-template {
